@@ -41,7 +41,7 @@ export function Footer() {
                   className="flex items-center text-sm text-primary hover:text-primary/80"
                 >
                   <Mail className="h-4 w-4 mr-2" />
-                  contact@example.com
+                  hendar.dev@gmail.com
                 </a>
               </li>
             </ul>
